@@ -1,0 +1,13 @@
+.bar
+{
+    background-color: black;
+    display: inline-flexbox;
+}
+.btn
+{
+    text-align-last: right;
+}
+.video
+{
+    border-radius: 10%;
+}
